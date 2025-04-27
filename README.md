@@ -33,7 +33,7 @@ A classic logic-based puzzle game built with **Python** and **Tkinter**, where y
    ```
 3. **Run the game**:
    ```bash
-   python minesweeper.py
+   python Minesweeper game.py
    ```
 
 ---
@@ -48,19 +48,13 @@ A classic logic-based puzzle game built with **Python** and **Tkinter**, where y
 ---
 
 ## 🤖 Auto-Solver Algorithm
-The Auto-Solver uses a **Breadth-First Search (BFS)** approach to safely reveal non-mine cells step-by-step with a short delay (200ms) between moves.
+The Auto-Solver uses a **Breadth-First Search (BFS)** approach to safely reveal non-mine cells step-by-step with a short delay (100ms) between moves.
 
 ---
 
 ## 📸 Screenshots  
-*(Add screenshots of gameplay here if you have any)*  
+![image](https://github.com/user-attachments/assets/4694eb2f-7aa3-4c81-98d0-08bd9772a90b)
+ 
 
 ---
 
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙌 Acknowledgments  
-Thanks to the classic Minesweeper game for inspiration!
